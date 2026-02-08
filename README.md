@@ -1,5 +1,9 @@
 # 🎙️ AI Voice Assistant with PDF Analysis
 
+
+## 🎥 Demo Video
+https://github.com/Umair-elahi123/AI-voice-assistant/releases/download/v1.0/demo.mp4
+
 A sophisticated real-time voice assistant application that enables natural voice conversations about PDF documents. Built by **Umair Elahi** with cutting-edge AI technologies and modern web frameworks.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)

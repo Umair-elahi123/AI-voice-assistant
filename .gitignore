@@ -6,8 +6,6 @@ __pycache__/
 *$py.class
 
 # Environment variables
-.env
-.env.local
 .env.*.local
 
 # Next.js
@@ -55,3 +53,4 @@ htmlcov/
 # Production
 *.min.js
 *.min.css
+config.bat

@@ -2,8 +2,7 @@
 
 ## 🎥 Demo Video
 
-[![Demo Thumbnail](thumbnail.png)](https://github.com/Umair-elahi123/AI-voice-assistant/releases/download/v1.0/demo.mp4)
-
+[Click here to watch demo video](https://drive.google.com/file/d/1i2swV6o3wWsekyvNdIwJdC9g0BAphOh8/preview)
 
 A sophisticated real-time voice assistant application that enables natural voice conversations about PDF documents. Built by **Umair Elahi** with cutting-edge AI technologies and modern web frameworks.
 
